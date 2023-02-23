@@ -1,0 +1,1 @@
+start steamcmd.exe +login anonymous +force_install_dir l4d2_sv +app_update 222860 validate +quit
